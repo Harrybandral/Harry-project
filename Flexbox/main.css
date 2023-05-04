@@ -1,0 +1,26 @@
+.parent{ 
+    display: flex;
+    flex-direction: ; 
+    flex-wrap: ;  
+}
+
+.child
+{
+width: 100px;
+height: 100px;
+}
+
+.orange
+{
+  background-color: orange;
+}
+
+.white
+{
+background-color: white;
+}
+
+.green
+{
+background-color: green;
+}
